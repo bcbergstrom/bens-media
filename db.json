@@ -1,0 +1,22 @@
+{
+    "data": {
+        "books": {
+            "placement_image": "https://t3.ftcdn.net/jpg/06/27/23/00/360_F_627230085_1u4gXJJQrlF53oEgg6w2Wa2HC4IdbDL1.jpg",
+            "data": {
+                "id": 0,
+                "name": "The Fellowship of the Ring",
+                "author": "J. R. R. Tolkien",
+                "time_to_consume": 800,
+                "ben_review": "Phenomenal High Fantasy Epic, has faced and conquered the tales of time, one of the best books ever written in the best trilogy of all time.",
+                "rating": 9,
+                "img": "https://m.media-amazon.com/images/I/71Ep7UNeTtL._AC_UF1000,1000_QL80_.jpg",
+                "genres": [
+                    "action",
+                    "adventure",
+                    "fantasy"
+                ],
+                "description": "The Fellowship of the Ring is the first in the fantasy epic, Lord of the Rings, written by British author JRR Tolkien."
+            }
+        }
+    }
+}

@@ -1,7 +1,8 @@
 import WebpageBundle from "./WebpageBundle"
+import './App.scss'
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-function App() {
+  function App() 
+  {
   return (
       <div>
         <WebpageBundle/>
